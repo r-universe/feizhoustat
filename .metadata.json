@@ -1,0 +1,10 @@
+[
+  {
+    "package": "interep",
+    "oncran": true
+  },
+  {
+    "package": "springer",
+    "oncran": true
+  }
+]
