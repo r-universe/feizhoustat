@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "interep"]
 	path = interep
 	url = https://github.com/feizhoustat/interep
-	shallow = true
-	registered = true
 [submodule "springer"]
 	path = springer
 	url = https://github.com/feizhoustat/springer
-	shallow = true
-	registered = true
